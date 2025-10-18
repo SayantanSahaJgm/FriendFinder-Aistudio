@@ -1,0 +1,9 @@
+{
+  "name": "FriendFinder",
+  "description": "A social networking app that connects nearby people using Bluetooth, WiFi, and location-based discovery, and also includes an Omegle-style random chat feature.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}
